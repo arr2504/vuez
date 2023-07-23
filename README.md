@@ -4,12 +4,11 @@
      _/  _/    _/    _/  _/          _/
       _/        _/_/    _/_/_/_/  _/_/_/_/_/
 
-
 # Vuez
 
 ## Introduction
 
-Vuez provides a simple starting point for building a SPA (single-page application) using Vue or React with the Laravel framework. The code structure remains unchanged, and Vuez can be styled using either Bootstrap or Tailwind. Additionally, Vuez includes authentication controllers and views that can be easily customized to fit the needs of your application.
+Vuez (Vue Easy) provides a simple starting point for building a SPA (single-page application) using Vue with the Laravel framework. The code structure remains unchanged, and Vuez can be styled using either Bootstrap or Tailwind. Additionally, Vuez includes authentication controllers and views that can be easily customized to fit the needs of your application.
 
 ## Installation
 
