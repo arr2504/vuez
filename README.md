@@ -1,23 +1,11 @@
+      _/      _/  _/    _/  _/_/_/_/  _/_/_/_/_/
+     _/      _/  _/    _/  _/              _/
+    _/      _/  _/    _/  _/_/_/        _/
+     _/  _/    _/    _/  _/          _/
+      _/        _/_/    _/_/_/_/  _/_/_/_/_/
+
+
 # Vuez
-
-<p align="center">
-    <a href="https://packagist.org/packages/arr2504/vuez">
-        <img src="https://img.shields.io/packagist/v/arr2504/vuez" alt="Latest Stable Version">
-    </a>
-    <a href="https://packagist.org/packages/arr2504/vuez">
-        <img src="https://img.shields.io/packagist/l/arr2504/vuez" alt="License">
-    </a>
-</p>
-
-
-                                               
-  _/      _/  _/    _/  _/_/_/_/  _/_/_/_/_/   
- _/      _/  _/    _/  _/              _/      
-_/      _/  _/    _/  _/_/_/        _/         
- _/  _/    _/    _/  _/          _/            
-  _/        _/_/    _/_/_/_/  _/_/_/_/_/       
-                                               
-                                        
 
 ## Introduction
 
@@ -46,7 +34,7 @@ php artisan vuez:install bs
 
 php artisan migrate
 npm install
-npm run dev / npm run build
+npm run dev && npm run build
 ```
 
 ## Vue With Tailwind
@@ -56,9 +44,8 @@ php artisan vuez:install tw
 
 php artisan migrate
 npm install
-npm run dev / npm run build
+npm run dev && npm run build
 ```
-
 
 ## License
 
